@@ -1,5 +1,5 @@
 
-**In a webpage its a very big to deal to encrypt our source code but however there are some prevention where we can add on our website which will help us to save our code from theft. Desabling Right mouse click and Different keyboard shortcut keys are one of those.**
+**In a webpage its a very big to deal to encrypt our source code but however there are some prevention where we can add in our website just by writing some javascript. This will somwhow help us to save our code from theft and copying. Desabling Right mouse click and Different keyboard shortcut keys are one of those.**
 
 Lets see how we can do this..
 
