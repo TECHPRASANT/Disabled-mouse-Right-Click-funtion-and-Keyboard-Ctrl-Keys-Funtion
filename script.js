@@ -1,7 +1,4 @@
-      
-<!--
-
-//Disable right mouse click and Cltrl keys Script
+ //Disable right mouse click and Cltrl keys Script
 //By Prashant Bhandari
 var message="Function Disabled!";
  $(window).on('keydown',function(event)
