@@ -1,8 +1,8 @@
 **In a webpage its a very big to deal to encrypt our source code but however there are some prevention where we can add in our website just by writing some javascript. This will somwhow help us to save our code from theft and copying. Desabling Right mouse click and Different keyboard shortcut keys are one of those.**
 
-Lets see how we can do this..
+### Lets see how we can do this..
 
-## First Write the Following JavaScript code on the <Head> Section of your index.html file.
+## First Write the Following JavaScript code on the Head Section of your index.html file.
   ```JavaScript
         
 <!--
