@@ -3,7 +3,7 @@
 
 Lets see how we can do this..
 
-First Write the Following JavaScript code on the <Head> Section of your index.html file.
+##First Write the Following JavaScript code on the <Head> Section of your index.html file.
   ```JavaScript
         
 <!--
@@ -75,7 +75,7 @@ return true;
 }
 
 ```
-Index.html File should be looked as:
+##Index.html File should be looked as:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -159,4 +159,5 @@ return true;
   </html
   
 ```
+##Thank You.
 
